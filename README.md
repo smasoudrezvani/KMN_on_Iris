@@ -1,5 +1,8 @@
 # KMN_on_Iris
-In this project , After downloading Iris Dataset From kaggle.com , for begining , the KMN method is applied on the dataset and then the efficiency of clustring method is calculated
+#In this project , After downloading Iris Dataset From kaggle.com , for begining , the KMN method is applied on the dataset and then the efficiency of clustring method is calculated.
+print(/n)
+
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
