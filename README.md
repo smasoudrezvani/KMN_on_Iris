@@ -19,7 +19,7 @@ from sklearn.cluster import KMeans
 		plt.scatter(centroids[:,0],centroids[:,2],marker='x',s=150,alpha=0.5)
 		plt.show()
 		
-Evaluation a Clustering	 :	
+Evaluation a Clustering	:	
 		inertia_list = []
 		for k in np.arange(1, 6):
 			kmn = KMeans(n_clusters=k)
